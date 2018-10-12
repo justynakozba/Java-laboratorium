@@ -1,0 +1,1 @@
+Wszystkie porzednia zadania z list 1-2 by³y zaimplementowane jako metody klas obiektowych Javy.
